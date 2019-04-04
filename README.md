@@ -16,6 +16,7 @@
     <a href="https://www.codacy.com/app/Longshotpro2/Naomi?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NaomiProject/Naomi&amp;utm_campaign=Badge_Grade">
       <img src="https://api.codacy.com/project/badge/Grade/1adb77e862b840c5a23bc0381ef25635"/>
     </a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2FAustinCasteel%2FNaomi?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2FAustinCasteel%2FNaomi.svg?type=shield"/></a>
     <a href="https://requires.io/github/NaomiProject/Naomi/requirements/?branch=master">
     	<img src="https://requires.io/github/NaomiProject/Naomi/requirements.svg?branch=master">
     </a>
@@ -46,6 +47,9 @@
 <p align="center">
 	<img src="https://projectnaomi.com/hero.png">
 </p>
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAustinCasteel%2FNaomi.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FAustinCasteel%2FNaomi?ref=badge_large)
 
 ## Key Features
 
